@@ -176,14 +176,9 @@ git checkout -b improve-readme
 
 ## 📄 الترخيص
 
-اختر الترخيص المناسب للمشروع قبل نشره.
-
-اقتراحات شائعة:
 
 - MIT License للأكواد
 - Creative Commons BY-NC-SA للكتاب والمحتوى التعليمي
-
-> لا تنسَ إضافة ملف `LICENSE` في المستودع.
 
 ---
 
